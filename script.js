@@ -1,0 +1,1 @@
+const btMostrar = document.querySelector("btMostrar");
